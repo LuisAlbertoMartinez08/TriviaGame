@@ -1,3 +1,16 @@
+.jumbotron{
+	text-align: center;
+}
+
+#timer {
+	text-align: center;
+	padding-bottom: 30px;
+	font-size: 40px;
+}
+#game{
+	display: none;
+}
+
 .header{
 	text-align: center;
 	font-family: sans-serif;
